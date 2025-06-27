@@ -22,7 +22,7 @@ ZingoMart is a feature-rich eCommerce platform built using Django and PostgreSQL
 
 | Home Page | Product Detail | Cart | Checkout |
 |-----------|----------------|------|----------|
-| ![](screenshots/home.png) | ![](screenshots/product_detail.png) | ![](screenshots/cart.png) | ![](screenshots/checkout.png) |
+| ![](screenshots/home.png) | ![](screenshots/product.png) | ![](screenshots/cart.png) | ![](screenshots/checkout.png) |
 
 ---
 
